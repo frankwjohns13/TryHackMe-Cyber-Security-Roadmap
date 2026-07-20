@@ -5,20 +5,16 @@ My notes and skills for my TryHackMe rooms.
 
 ## TryHackMe Learning Roadmap
 
-| Path                        | Focus Area                  | Professional Certification                  |
-|-----------------------------|-----------------------------|---------------------------------------------|
-| **SOC Level 1**             | Security Operations         | Security Analyst Level 1 (SAL1)             |
-| **Jr. Penetration Tester**  | Penetration Testing         | Jr. Penetration Tester (PT1)                |
-| **Security Engineer**       | Security Engineering        | DevSecOps                                   |
-| **AI Security**             | AI & Security               | AI Security Level 1 (AI1)                   |
+| **Computer Science Basics      |
+|--------------------------------|
+| **Pre Security**               |
+| **Pre Secruity (SOC0)**        |
 
-### Advanced Paths
-- **SOC Level 2**
-- **Web Application Pentesting**
-- **Security Analyst Level 2 (SAL2)**
-- **Red Teaming**
-- **Advanced Endpoint Investigations**
-- **Defending AWS / Azure**
+| **Cyber Security Foundations** |
+|--------------------------------|
+| **Cyber Security 101**         |
+| **Cyber Security 101 (SEC1)    |
+
 
 ---
 
