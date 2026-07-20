@@ -2,10 +2,11 @@
 My notes and skills for my TryHackMe rooms. 
 
 <div align="center">
-TryHackMe Learning Roadmap
+
+  TryHackMe Learning Roadmap
+
 </div>
 
----
 
 <div align="center">
   
