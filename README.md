@@ -2,8 +2,8 @@
 My notes and skills for my TryHackMe rooms. 
 
 ## Links to room reports
-<div align="center">
-## TryHackMe Learning Roadmap
+## <div align="center">
+TryHackMe Learning Roadmap
 </div>
 
 <div align="center">
@@ -45,6 +45,7 @@ My notes and skills for my TryHackMe rooms.
 
 ## Website
 [View TryHackMe Roadmap](https://tryhackme.com/hacktivities)
+
 [View my website](https://frankwjohns13.github.io/)
 
 
