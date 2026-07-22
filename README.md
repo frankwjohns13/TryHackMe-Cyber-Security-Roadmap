@@ -21,7 +21,7 @@ My notes and skills for my TryHackMe rooms.
   
 | **Cyber Security Foundations** |
 |--------------------------------|
-| Cyber Security 101         |
+| [Cyber Security 101](https://github.com/frankwjohns13/Cyber-Security-101)        |
 | Cyber Security 101 (SEC1)  |
 
 </div>
