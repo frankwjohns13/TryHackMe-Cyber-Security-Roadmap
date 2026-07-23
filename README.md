@@ -46,7 +46,7 @@ My notes and skills for my TryHackMe rooms.
 ## Links to room writeups
 
 ## Website
-[View TryHackMe Roadmap](https://tryhackme.com/hacktivities)
+[View Official TryHackMe Roadmap](https://tryhackme.com/hacktivities)
 
 [View my website](https://frankwjohns13.github.io/)
 
