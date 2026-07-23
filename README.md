@@ -1,9 +1,9 @@
-# TryHackMe Writeups Index
+# TryHackMe Cyber Security Learning Roadmap
 My notes and skills for my TryHackMe rooms. 
 
 <div align="center">
 
-  TryHackMe Learning Roadmap
+  TryHackMe Cyber Security Learning Roadmap
 
 </div>
 
