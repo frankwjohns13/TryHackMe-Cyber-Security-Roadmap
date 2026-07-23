@@ -3,7 +3,7 @@ My notes and skills for my TryHackMe rooms.
 
 <div align="center">
 
-  TryHackMe Cyber Security Learning Roadmap
+  **Roadmap**
 
 </div>
 
